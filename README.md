@@ -1,12 +1,19 @@
-- 👋 Hi, I’m @Alex
-- 👀 I’m interested in astrology and ChatGPT 
-- 🌱 I’m currently learning How to use Chatgpt from Android
-- 💞️ I’m looking to collaborate on simple projects because I don't know how to program and I don't have a PC
-- 📫 How to reach me mail colcazzochemibecchi@gmail.com
-- 😄 Pronouns: HE/HIM
-- ⚡ Fun fact: I'm a complete beginner 
+# 👋 Hi, I'm Alex!
 
-<!---
-Alejea/Alejea is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🔭 **Interests:** Astrology, ChatGPT, and exploring the possibilities of AI.
+
+🌱 **Currently learning:** How to use ChatGPT and AI tools from my Android phone.
+
+🤝 **Looking to collaborate:** I'm open to simple, beginner-friendly projects. I don't know how to code yet, and I don't have a PC, so I'm learning one step at a time.
+
+💬 **A little about me:** I'm curious, creative, and always happy to learn something new.
+
+📫 **Contact:** colcazzochemibecchi@gmail.com
+
+😄 **Pronouns:** He/Him
+
+⚡ **Fun fact:** Complete beginner, curious mind!
+
+---
+
+*Learning as I go, one step at a time.* 🚀
