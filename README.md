@@ -8,8 +8,6 @@
 
 💬 **A little about me:** I'm curious, creative, and always happy to learn something new.
 
-📫 **Contact:** colcazzochemibecchi@gmail.com
-
 😄 **Pronouns:** He/Him
 
 ⚡ **Fun fact:** Complete beginner, curious mind!
